@@ -1,2 +1,0 @@
-(this["webpackJsonphttps-client"]=this["webpackJsonphttps-client"]||[]).push([[5],{190:function(t,n,e){"use strict";e.r(n),e.d(n,"startStatusTap",(function(){return o}));var i=e(26),o=(e(4),function(){var t=window;t.addEventListener("statusTap",(function(){Object(i.g)((function(){var n=t.innerWidth,e=t.innerHeight,o=document.elementFromPoint(n/2,e/2);if(o){var c=o.closest("ion-content");c&&c.componentOnReady().then((function(){Object(i.m)((function(){return c.scrollToTop(300)}))}))}}))}))})}}]);
-//# sourceMappingURL=5.57dd0e58.chunk.js.map
